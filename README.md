@@ -5,15 +5,12 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-
 Software engineering is the systematic application of engineering principles, methods, and tools to the development and maintenance of high-quality software projects and systems,Software engineering plays a crucial role in the technology industry by enabling the creation of software applications and systems 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-
 One key milestone in software engineering was the creation of programming languages in the 1950s and 1960s. These languages, like FORTRAN, made coding easier by using more understandable words and commands. Another important development was structured programming in the 1960s and 1970s, which introduced clear rules for organizing code, making it simpler to read and fix. Lastly, the rise of object-oriented programming in the 1980s and 1990s changed how software was built, allowing developers to create programs in smaller, reusable pieces, leading to more efficient and manageable software.
 
 List and briefly explain the phases of the Software Development Life Cycle.
-
 The Software Development Life Cycle (SDLC) consists of several phases, including:
   - Planning: This phase involves defining the project scope, goals, and timelines. It also includes
   - Requirements: Gathering and documenting user needs and system requirements.
@@ -38,7 +35,6 @@ Software Developer: Writes and maintains the code for software, turning project 
 Quality Assurance (QA) Engineer: Tests the software to find and fix bugs, ensuring the software works well and is free of issues.
 
 Project Manager: Plans, manages the project and delivery of software projects, making sure it stays on schedule and within budget, while coordinating the team’s work and communicating with stakeholders.
-
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
 Integrated Development Environments (IDEs): IDEs provide tools for writing, testing, and debugging code in one place, making development easier and faster.
@@ -48,7 +44,6 @@ Example: Visual Studio Code offers features like code suggestions and debugging.
 Version Control Systems (VCS): VCS track changes to code, allowing multiple people to work on the same project without conflicts and keeping a history of changes.
 
 Example: Git helps manage and share code changes, with platforms like GitHub for collaboration.
-
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 Common Challenges:
 
@@ -71,16 +66,12 @@ Acceptance Testing: Verifies that the software meets user needs and is ready for
 Importance: These tests help ensure the software is reliable, works well, and meets user needs.
 #Part 2: Introduction to AI and Prompt Engineering
 
-
 Define prompt engineering and discuss its importance in interacting with AI models.
 Prompt Engineering: Designing clear and effective questions or commands for AI to get the best responses.
 
 Importance: It helps AI understand and answer questions better, making interactions more useful and accurate.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
-
 Vague Prompt: "Tell me about computers."
-
 Improved Prompt: "How do a computer's CPU, RAM, and hard drive work together?"
-
 Explanation: The improved prompt is better because it clearly asks about specific parts of the computer and their functions, leading to a more detailed and relevant answer.
