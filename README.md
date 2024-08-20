@@ -1,4 +1,4 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15572289&assignment_repo_type=AssignmentRepo)
+
 # SE_Day1
 Software Engineering Day1 Assignment
 
@@ -73,5 +73,7 @@ Importance: It helps AI understand and answer questions better, making interacti
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Vague Prompt: "Tell me about computers."
+
 Improved Prompt: "How do a computer's CPU, RAM, and hard drive work together?"
+
 Explanation: The improved prompt is better because it clearly asks about specific parts of the computer and their functions, leading to a more detailed and relevant answer.
